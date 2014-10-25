@@ -1,4 +1,4 @@
-hello_world
+Hello World
 ===========
 
-my first repository
+Hi! My name is Sneha.
